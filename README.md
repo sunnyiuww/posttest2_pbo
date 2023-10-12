@@ -10,10 +10,10 @@ Intinya program ini bertujuan untuk memudahkan admin dalam melakukan pengelolaan
 
 ### Screenshoot-an Output dan Penjelasannya
 <img width="285" alt="Screenshot 2023-10-12 205800" src="https://github.com/sunnyiuww/posttest2_pbo/assets/126841766/35ebb712-2af1-407b-bde6-42538e9bf4da">
-Tampilan diatas adalah tampilan awal program yang dimana user akan diminta untuk memilih pilihan menu yang akan dijalankan oleh program.
+-Tampilan diatas adalah tampilan awal program yang dimana user akan diminta untuk memilih pilihan menu yang akan dijalankan oleh program.
 
 <img width="260" alt="Screenshot 2023-10-12 210019" src="https://github.com/sunnyiuww/posttest2_pbo/assets/126841766/41220395-2400-4b66-ad52-e2dbdc6dc7bd">
-Jika user memilih pilihan pertama, maka user dapat menambahkan produk dengan menginputkan nama dan juga harga produk.
+-Jika user memilih pilihan pertama, maka user dapat menambahkan produk dengan menginputkan nama dan juga harga produk.
 
 <img width="260" alt="Screenshot 2023-10-12 210138" src="https://github.com/sunnyiuww/posttest2_pbo/assets/126841766/16c5b991-122f-4234-9230-826cf54b99e8">
 Jika user memilih pilihan kedua, maka program akan menampilkan daftar produk dan user dapat melihat produk apa saja yang tersedia di dalam galeri furniture.
